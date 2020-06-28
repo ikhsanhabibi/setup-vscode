@@ -18,3 +18,5 @@
 - ES Lint
 - Path Intellisense
 
+- uncheck the options Enable Preview and Enable Preview from Quick Open
+
