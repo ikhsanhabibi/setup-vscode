@@ -20,3 +20,6 @@
 
 - uncheck the options Enable Preview and Enable Preview from Quick Open
 
+
+# Keyboard shortcuts
+- comment block: Shift+Alt+A
